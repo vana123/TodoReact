@@ -1,0 +1,9 @@
+.TodoForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &__label{
+        margin: 0px 10px;
+    }
+}

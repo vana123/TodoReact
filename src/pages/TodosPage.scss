@@ -1,0 +1,18 @@
+.btn{
+    background-color: rgb(77, 77, 77);
+    color: bisque;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    cursor: pointer;
+    margin: 10px 10px;
+
+    &:hover{
+        background-color: rgba(77, 77, 77, 0.581);
+    }
+}
+
+input{
+    height: 20px;
+}
